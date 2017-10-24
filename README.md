@@ -4,11 +4,10 @@ Design is about communication. As a designer it is your job to
 communicate the values of your product with your audience.
 
 > **Design:** 
-> 
-> 1) to conceive or execute a plan
-> 2) to devise for a specific function or end
-> 3) to indicate with a distinctive mark, sign, or name
-> 4) to make a drawing, pattern, or sketch of
+> 1. to conceive or execute a plan
+> 2. to devise for a specific function or end
+> 3. to indicate with a distinctive mark, sign, or name
+> 4. to make a drawing, pattern, or sketch of
 
 A product has a purpose, and it's producer values. These should be 
 expressed in the design.
@@ -17,11 +16,18 @@ expressed in the design.
 > Wow is the one to aim for.”
 > - **Milton Glaser**
 
-## What are they trying to say?
+## What's so great about Square Space?
 
+Check out [SQUARESPACE](https://www.squarespace.com/?channel=ps&subchannel=pinterest&campaign=MYNM_UrbanCowboy_Image_DW2&subcampaign=keywords&source=us_amp82117_Keywords_Desktop-Search_MYNM&pp=0)
+visit the web page, pay close attention to the type. With a partner
+Decide what you like and what is working well?
 
+Try this with: 
 
-## Features
+- [Airbnb](https://www.airbnb.com)
+- []
+
+## What features did you identify?
 
 Design has these features (in other words you have these features 
 to express your message):
