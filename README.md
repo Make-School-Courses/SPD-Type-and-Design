@@ -16,7 +16,7 @@ expressed in the design.
 > Wow is the one to aim for.”
 > - **Milton Glaser**
 
-## What's so great about Square Space?
+## Why do some things look better than others?
 
 Check out [this website](https://kickpush.co)
 visit the web page, pay close attention to the type. With a partner
@@ -27,6 +27,9 @@ Ask these questions:
 - What do you think about the typography?
 - What has the designer done with type to make this interesting?
   - Name three things
+  
+Check out this [site](http://www.petersbuss.se) and ask yourself
+what is working here?
 
 ## Design Features
 
