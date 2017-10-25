@@ -18,16 +18,17 @@ expressed in the design.
 
 ## What's so great about Square Space?
 
-Check out [SQUARESPACE](https://www.squarespace.com/?channel=ps&subchannel=pinterest&campaign=MYNM_UrbanCowboy_Image_DW2&subcampaign=keywords&source=us_amp82117_Keywords_Desktop-Search_MYNM&pp=0)
+Check out [this website](https://kickpush.co)
 visit the web page, pay close attention to the type. With a partner
 Decide what you like and what is working well?
 
-Try this with: 
+Ask these questions: 
 
-- [Airbnb](https://www.airbnb.com)
-- []
+- What do you think about the typography?
+- What has the designer done with type to make this interesting?
+  - Name three things
 
-## What features did you identify?
+## Design Features
 
 Design has these features (in other words you have these features 
 to express your message):
@@ -35,12 +36,17 @@ to express your message):
 - Typography
 - Color
 - Layout
-- Everything else... 
+- Everything else...
 
 ## Typography
 
+The most common form of content in the apps you create is text.
+For this lesson we will focus on typography. 
+
 > “Typography is the craft of endowing human language with a durable visual form.” 
 > ― **Robert Bringhurst**, The Elements of Typographic Style
+
+### Talking about Typography 
 
 __Terms__
 
@@ -50,8 +56,8 @@ Actually there are many more [terms](https://i.pinimg.com/originals/58/d8/08/58d
 
 The terms above are most important for layout. Understanding these 
 will help explain a lot of the strange behavior you might have 
-experienced working with type, and the options present in soft
-dealing with type. 
+experienced working with type, and the options present in software
+dealing with type.
 
 __Kerning__
 
@@ -83,12 +89,13 @@ faces before and what the message was.
 
 # Type Hierarchy
 
-__A majority of your content is text.__ Your text needs to look good and read well.
-An important part of communication is the order in which you say things.
+__A majority of your content is text.__ Your text needs to look good 
+and read well. An important part of communication is the order in which 
+you say things.
 
-**Use design to control the order in which your content is read**.
+**Design your type to control the order in which your content is read**.
 
-This image explains it all. 
+This image explains it all.
 
 - http://visual.ly/10-building-blocks-visual-hierarchy
 
@@ -97,8 +104,7 @@ You can use these design elements to create hierarchy in your type:
 - Color
 - Position
 - Size
-- Style
-- Type Contrast
+- Type Contrast 
 - Weight
 
 ### Identify Hierarchy in the wild
@@ -120,20 +126,44 @@ an example of each idea (color, position, size, style, Type Contrast, weight).
 ### Exercise
 
 This is your opportunity to apply some of the ideas yourself. 
+
 Understanding that everyone is working in different areas I 
 have supplied three different formats to work in. 
 
-1. Sketch - If you have Sketch and want to work in a purely 
+1. [Sketch](./exercise/Type-Hierarchy-Example) - If you have Sketch and want to work in a purely 
 visual design form you can solve the problems in sketch. 
-2. HTML/CSS - Use this to solve the problems with CSS. 
-3. Xcode - Use storyboard to solve the problems.  
+2. [HTML/CSS](./exercise/Type-Exercise-html) - Use this to solve the problems with CSS. 
+3. [Xcode](./exercise/Type-Hierarchy) - Use storyboard to solve the problems.  
 
 The starter project and files are in the folder below. 
 
 - [Type-Hierarchy-Example](./exercise/)
 
-Use modify the example with the goal of making the type read well. Create
-hierarchy between the title, source, heading, and body.
+There are two examples. 
+
+The first is a wikipedia entry with: 
+
+- Title 
+- Subheading
+- Description
+- Image
+
+The second is a product description with:
+
+- Brand 
+- Title
+- Description
+- List
+- Disclaimer
+- Image
+
+Feel free to work with all elements in any way you like. 
+The goal is to make a single block of text that is easy to 
+understand. Ask yourself these questions as you work. 
+
+- Show a visual hierarchy what should viewers read first?
+- Each of the pieces of content has a style sets it apart 
+from the other elements. 
 
 ### Resources
 
