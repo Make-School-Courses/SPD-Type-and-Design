@@ -168,6 +168,10 @@ understand. Ask yourself these questions as you work.
 - Each of the pieces of content has a style sets it apart 
 from the other elements. 
 
+## Review 
+
+![Type-Hierarchy.png](./Notes/Type-Hierarchy.png)
+
 ### Resources
 
 - https://webdesign.tutsplus.com/articles/understanding-typographic-hierarchy--webdesign-11636
