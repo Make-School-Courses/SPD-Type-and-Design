@@ -22,14 +22,24 @@ Check out [this website](https://kickpush.co)
 visit the web page, pay close attention to the type. With a partner
 Decide what you like and what is working well?
 
-Ask these questions: 
+Answer these questions: 
 
 - What do you think about the typography?
 - What has the designer done with type to make this interesting?
   - Name three things
+- What is the message? 
+  - What do they do?
+  - How do they do it?
+  - What are their values?
   
-Check out this [site](http://www.petersbuss.se) and ask yourself
-what is working here?
+Let's do that again. Check out this [site](http://www.petersbuss.se) with a partner
+
+- What do you think about the typography?
+- What did the designer want you to see?
+  - First 
+  - Second
+  - Third
+- What are they doing worng? 
 
 ## Design Features
 
